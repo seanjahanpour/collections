@@ -1,5 +1,15 @@
 {
 	"name":	"jahan/collections",
+	"type": "library",
+	"homepage": "https://github.com/seanjahanpour/collections",
+	"version": "1.0.0",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Sean Jahanpour",
+			"email": "sean@jahanpour.com"
+		}
+	],
 	"description": "Set of collection for use by other libraries",
 	"require": {
 		"php": ">7.2"
