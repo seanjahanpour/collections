@@ -1,4 +1,9 @@
 {
+	"name":	"jahan/collections",
+	"description": "Set of collection for use by other libraries",
+	"require": {
+		"php": ">7.2"
+	},
 	"autoload": {
 	    "psr-4": {
 		"Jahan\\Collections\\":"src/"
