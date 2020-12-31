@@ -6,9 +6,9 @@ List of all US alphabet in lower case and upper case in an array
 
 ###### example
 ```
-use Jahan\Collections\Common as CommonCollections
+use Jahan\Collection\Common as CommonCollection
 ...
-print_r(CommonCollections::ALPHABET);
+print_r(CommonCollection::ALPHABET);
 ```
 
 
@@ -16,14 +16,14 @@ print_r(CommonCollections::ALPHABET);
 0 .. 9 in an array
 ###### example
 ```
-use Jahan\Collections\Common as CommonCollections
+use Jahan\Collection\Common as CommonCollection
 ...
-print_r(CommonCollections::NUMBERS);
+print_r(CommonCollection::NUMBERS);
 ```
 
 
 # Installation
 ## Composer
 ```
-php composer.phar require jahan/collections
+php composer.phar require jahan/collection
 ```
