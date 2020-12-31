@@ -1,5 +1,5 @@
 <?php
-namespace Jahan\Collections;
+namespace Jahan\Collection;
 
 class Common
 {

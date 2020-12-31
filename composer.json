@@ -1,7 +1,7 @@
 {
-	"name":	"jahan/collections",
+	"name":	"jahan/collection",
 	"type": "library",
-	"homepage": "https://github.com/seanjahanpour/collections",
+	"homepage": "https://github.com/seanjahanpour/collection",
 	"version": "1.0.0",
 	"license": "MIT",
 	"authors": [
@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 	    "psr-4": {
-		"Jahan\\Collections\\":"src/"
+		"Jahan\\Collection\\":"src/"
 	    }
 	}
     }
